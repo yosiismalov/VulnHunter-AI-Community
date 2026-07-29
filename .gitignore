@@ -1,0 +1,11 @@
+output/
+reports/*_report.md
+__pycache__/
+*.pyc
+*.log
+dist/
+releases/
+logs/
+.vscode/
+.idea/
+.DS_Store

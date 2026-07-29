@@ -1,0 +1,7 @@
+subfinder
+httpx
+katana
+gau
+curl
+jq
+sha256sum

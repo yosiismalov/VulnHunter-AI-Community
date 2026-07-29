@@ -1,0 +1,7 @@
+# VulnHunter-AI configuration
+
+MAX_TARGETS=30
+MAX_TIME=10
+
+# Use only against authorized targets.
+# Review the applicable bug bounty scope before running.
