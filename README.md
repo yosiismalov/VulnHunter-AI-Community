@@ -26,6 +26,8 @@ https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro?utm_source=github&utm_medium
 
 **Security Research Tools Storefront:** https://yosiismalov.gumroad.com/
 
+**Free Bug Bounty Wordlists Starter Pack:** https://yosiismalov.gumroad.com/l/bug-bounty-wordlists-starter?utm_source=github&utm_medium=vulnhunter_repo&utm_campaign=starter_pack
+
 ---
 
 # Features
