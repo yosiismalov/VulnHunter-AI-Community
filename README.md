@@ -22,7 +22,7 @@ Use the Community Edition to collect and organize reconnaissance data, then upgr
 
 **VulnHunter-AI Pro v1.0.1 — $30**
 
-https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro
+https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro?utm_source=github&utm_medium=community_repo&utm_campaign=v1_0_1
 
 ---
 
@@ -160,7 +160,7 @@ The current v1.0.1 analysis layer is deterministic and rule-based. It does not i
 
 ## Get Pro
 
-https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro
+https://yosiismalov.gumroad.com/l/vulnhunter-ai-pro?utm_source=github&utm_medium=community_repo&utm_campaign=v1_0_1
 
 ---
 
